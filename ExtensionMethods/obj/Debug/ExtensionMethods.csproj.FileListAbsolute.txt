@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\finalSwag\HelloWorld\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\hp\Desktop\finalSwag\HelloWorld\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\hp\Desktop\finalSwag\HelloWorld\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\hp\Desktop\finalSwag\HelloWorld\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\finalSwag\HelloWorld\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\hp\Desktop\finalSwag\HelloWorld\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

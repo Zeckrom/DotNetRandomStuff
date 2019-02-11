@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\finalSwag\HelloWorld\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\Users\hp\Desktop\finalSwag\HelloWorld\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+C:\Users\hp\Desktop\finalSwag\HelloWorld\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\Users\hp\Desktop\finalSwag\HelloWorld\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\finalSwag\HelloWorld\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\finalSwag\HelloWorld\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\Users\hp\Desktop\finalSwag\HelloWorld\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb

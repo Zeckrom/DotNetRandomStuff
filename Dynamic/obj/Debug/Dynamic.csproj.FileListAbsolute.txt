@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Dynamic\bin\Debug\Dynamic.exe.config
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Dynamic\bin\Debug\Dynamic.exe
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Dynamic\obj\Debug\Dynamic.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Dynamic\obj\Debug\Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Dynamic\obj\Debug\Dynamic.exe
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Dynamic\obj\Debug\Dynamic.pdb

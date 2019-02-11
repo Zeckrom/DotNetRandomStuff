@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Lambda\bin\Debug\Lambda.exe
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Lambda\bin\Debug\Lambda.pdb
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Lambda\obj\Debug\Lambda.exe
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Lambda\obj\Debug\Lambda.pdb
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Lambda\obj\Debug\Lambda.csprojAssemblyReference.cache

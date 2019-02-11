@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Generics\bin\Debug\Generics.exe.config
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Generics\bin\Debug\Generics.exe
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Generics\bin\Debug\Generics.pdb
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Generics\bin\Debug\HelloWorld.exe
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Generics\bin\Debug\HelloWorld.pdb
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Generics\bin\Debug\HelloWorld.exe.config
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Generics\obj\Debug\Generics.csproj.CopyComplete
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Generics\obj\Debug\Generics.exe
+C:\Users\hp\Desktop\finalSwag\HelloWorld\Generics\obj\Debug\Generics.pdb
